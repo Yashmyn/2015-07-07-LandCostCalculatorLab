@@ -1,0 +1,6 @@
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-07-LandCostCalculatorLab\2015-07-07-LandCostCalculatorLab\bin\Debug\2015-07-07-LandCostCalculatorLab.exe.config
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-07-LandCostCalculatorLab\2015-07-07-LandCostCalculatorLab\bin\Debug\2015-07-07-LandCostCalculatorLab.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-07-LandCostCalculatorLab\2015-07-07-LandCostCalculatorLab\bin\Debug\2015-07-07-LandCostCalculatorLab.pdb
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-07-LandCostCalculatorLab\2015-07-07-LandCostCalculatorLab\obj\Debug\2015-07-07-LandCostCalculatorLab.csprojResolveAssemblyReference.cache
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-07-LandCostCalculatorLab\2015-07-07-LandCostCalculatorLab\obj\Debug\2015-07-07-LandCostCalculatorLab.exe
+c:\users\grand\documents\visual studio 2013\Projects\2015-07-07-LandCostCalculatorLab\2015-07-07-LandCostCalculatorLab\obj\Debug\2015-07-07-LandCostCalculatorLab.pdb
